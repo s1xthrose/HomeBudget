@@ -1,0 +1,6 @@
+{
+  "appTitle": "tst_appka",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
